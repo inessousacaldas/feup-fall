@@ -5,6 +5,10 @@ A endless faller for Android developed for the Computer Games Development course
 
 Check a video [here](https://youtu.be/qqLjxX5Xm2w).
 
+Main Menu                  |  Gameplay
+:-------------------------:|:-------------------------:
+![Main Menu](img/feup_fall_menu.gif "Main Menu")  |  ![Gameplay](img/feup_fall_gameplay.gif "Gameplay")
+
 ![Game Title](img/feupfall_presentation.jpg "Game Title")
 ![Game Overview](img/feupfall_presentation_1.jpg "Game Overview")
 ![Screen Menus](img/feupfall_presentation_2.jpg "Screen Menus")
